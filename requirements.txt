@@ -1,5 +1,3 @@
-numpy
-pillow
 sqlite3
 flask
 uuid
